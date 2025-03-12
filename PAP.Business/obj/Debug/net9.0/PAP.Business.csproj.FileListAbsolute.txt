@@ -1,0 +1,12 @@
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\bin\Debug\net9.0\PAP.Business.deps.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\bin\Debug\net9.0\PAP.Business.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\bin\Debug\net9.0\PAP.Business.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\PAP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\PAP.Business.AssemblyInfoInputs.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\PAP.Business.AssemblyInfo.cs
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\PAP.Business.csproj.CoreCompileInputs.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\PAP.Business.sourcelink.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\PAP.Business.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\refint\PAP.Business.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\PAP.Business.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Business\obj\Debug\net9.0\ref\PAP.Business.dll

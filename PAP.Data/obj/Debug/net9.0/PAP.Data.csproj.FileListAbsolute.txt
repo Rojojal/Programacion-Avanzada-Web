@@ -1,0 +1,12 @@
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\bin\Debug\net9.0\PAP.Data.deps.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\bin\Debug\net9.0\PAP.Data.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\bin\Debug\net9.0\PAP.Data.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.AssemblyInfoInputs.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.AssemblyInfo.cs
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.csproj.CoreCompileInputs.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.sourcelink.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\refint\PAP.Data.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\ref\PAP.Data.dll

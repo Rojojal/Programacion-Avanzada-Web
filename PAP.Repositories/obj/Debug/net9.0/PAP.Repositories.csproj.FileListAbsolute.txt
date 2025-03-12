@@ -1,0 +1,12 @@
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Repositories.deps.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Repositories.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Repositories.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.AssemblyInfoInputs.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.AssemblyInfo.cs
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.sourcelink.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\refint\PAP.Repositories.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\ref\PAP.Repositories.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LSvHLRx/7vr4e5znJ89G+fY9TSwwmNSw8cLgHe3zFFA=",
+  "Source": "PAP.API",
+  "BasePath": "_content/PAP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
