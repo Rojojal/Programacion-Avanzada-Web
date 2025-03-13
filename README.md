@@ -1,17 +1,22 @@
-Proyecto final del curso Programacion Avanzada Web
+# Proyecto Final del Curso Programación Avanzada Web
 
-Integrantes del grupo:
+## Integrantes del grupo:
+- **Josué García Rojas**  
+- **Karen Tatiana Obando Jimenez**  
+- **Jonathan Gerardo Esquivel Guillen**  
+- **Nicole Torres Rodriguez**  
 
-Josué García Rojas
-Karen Tatiana Obando Jimenez
-Jonathan Gerardo Esquivel Guillen
-Nicole Torres Rodriguez
+---
 
-
-- Arquitectura del proyecto
-
-
-- Librerias/Paquetes nugets utilizadas
+##  Arquitectura del Proyecto  
 
 
-- Principios SOLID y patrones de diseño utilizados
+---
+
+## Librerías/Paquetes NuGet Utilizados  
+
+
+---
+
+##  Principios SOLID y Patrones de Diseño Utilizados  
+
