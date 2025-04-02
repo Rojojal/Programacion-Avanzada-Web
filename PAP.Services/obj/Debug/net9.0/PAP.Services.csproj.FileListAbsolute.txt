@@ -1,11 +1,12 @@
-C:\Users\jueto\source\repos\PAP.API\PAP.Services\bin\Debug\net9.0\PAP.Services.deps.json
-C:\Users\jueto\source\repos\PAP.API\PAP.Services\bin\Debug\net9.0\PAP.Services.dll
-C:\Users\jueto\source\repos\PAP.API\PAP.Services\bin\Debug\net9.0\PAP.Services.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.AssemblyInfoInputs.cache
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.AssemblyInfo.cs
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.csproj.CoreCompileInputs.cache
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.sourcelink.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Services\bin\Debug\net9.0\PAP.Services.deps.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Services\bin\Debug\net9.0\PAP.Services.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Services\bin\Debug\net9.0\PAP.Services.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.csproj.AssemblyReference.cache
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\refint\PAP.Services.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Services\obj\Debug\net9.0\PAP.Services.pdb

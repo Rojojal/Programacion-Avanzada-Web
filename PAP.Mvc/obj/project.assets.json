@@ -2255,6 +2255,18 @@
           "buildTransitive/Mono.TextTemplating.targets": {}
         }
       },
+      "NewsAPI/0.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/portable45-net45+win8+wpa81/NewsAPI.dll": {}
+        },
+        "runtime": {
+          "lib/portable45-net45+win8+wpa81/NewsAPI.dll": {}
+        }
+      },
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
@@ -2990,6 +3002,19 @@
         },
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
+        }
+      },
+      "PAP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "NewsAPI": "0.7.0"
+        },
+        "compile": {
+          "bin/placeholder/PAP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAP.Services.dll": {}
         }
       }
     }
@@ -6711,6 +6736,18 @@
         "readme.md"
       ]
     },
+    "NewsAPI/0.7.0": {
+      "sha512": "ZKJCjE/8M41hDHMHvd6f+dejHBaobOuw+Erk9miqcwlixiZ8neRXawR62Fq7rZcBUD/drT26OhvgSa8t6woULg==",
+      "type": "package",
+      "path": "newsapi/0.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/portable45-net45+win8+wpa81/NewsAPI.dll",
+        "newsapi.0.7.0.nupkg.sha512",
+        "newsapi.nuspec"
+      ]
+    },
     "Newtonsoft.Json/13.0.3": {
       "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
@@ -8111,6 +8148,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "PAP.Services/1.0.0": {
+      "type": "project",
+      "path": "../PAP.Services/PAP.Services.csproj",
+      "msbuildProject": "../PAP.Services/PAP.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8120,7 +8162,9 @@
       "Microsoft.AspNetCore.Identity.UI >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.3",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0",
+      "NewsAPI >= 0.7.0",
+      "PAP.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8130,11 +8174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.MVC\\PAP.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\PAP.Mvc.csproj",
       "projectName": "PAP.Mvc",
-      "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.MVC\\PAP.Mvc.csproj",
+      "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\PAP.Mvc.csproj",
       "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.MVC\\obj\\",
+      "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8154,7 +8198,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj": {
+              "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -8198,6 +8246,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[9.0.0, )"
+          },
+          "NewsAPI": {
+            "target": "Package",
+            "version": "[0.7.0, )"
           }
         },
         "imports": [
@@ -8222,5 +8274,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"NewsAPI 0.7.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net9.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "NewsAPI",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

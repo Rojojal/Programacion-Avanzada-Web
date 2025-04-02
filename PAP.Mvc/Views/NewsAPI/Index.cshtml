@@ -1,0 +1,59 @@
+﻿@model List<NewsAPI.Models.Article>
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Últimas Noticias</h2>
+
+    <div class="row">
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var article in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm h-100">
+                        @if (!string.IsNullOrEmpty(article.UrlToImage))
+                        {
+                            <img src="@article.UrlToImage" class="card-img-top" alt="Imagen de la noticia">
+                        }
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">@article.Title</h5>
+                            <p class="card-text">@article.Description</p>
+                            <a href="@article.Url" class="btn btn-primary mt-auto" target="_blank">Leer más</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12">
+                <p class="text-center">No hay noticias disponibles.</p>
+            </div>
+        }
+    </div>
+</div>
+
+<!-- Sección de Gráficos -->
+<div class="container mt-5">
+    <h2 class="text-center">Estadísticas de Noticias</h2>
+    <canvas id="newsChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const ctx = document.getElementById('newsChart').getContext('2d');
+        const newsData = {
+            labels: ["CNN", "BBC", "NY Times", "Reuters", "The Guardian"], // Ajusta según los datos reales
+            datasets: [{
+                label: 'Cantidad de noticias por fuente',
+                data: [12, 19, 10, 7, 15], // Simulación de datos, deberías extraerlo de tu API
+                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF']
+            }]
+        };
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: newsData,
+        });
+    });
+</script>

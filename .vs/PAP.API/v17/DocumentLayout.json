@@ -3,56 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|solutionrelative:pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 59,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,21 +85,272 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T23:14:57.738Z",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PAP.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:07:22.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T21:34:04.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\NewsAPIController.cs",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\NewsAPIController.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\NewsAPIController.cs",
+              "RelativeToolTip": "PAP.Mvc\\Controllers\\NewsAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:15:36.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
+              "RelativeDocumentMoniker": "PAP.Services\\NewsAPIService.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
+              "RelativeToolTip": "PAP.Services\\NewsAPIService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:43:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -99,25 +358,24 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T22:36:43.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T22:36:43.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxsAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T23:28:36.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\Error.cshtml",
@@ -129,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\_ViewImports.cshtml",
@@ -141,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\_ViewStart.cshtml",
@@ -153,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Home\\Index.cshtml",
@@ -166,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Home\\Privacy.cshtml",
@@ -178,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
@@ -186,12 +444,11 @@
               "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T23:25:04.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T23:25:04.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -203,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PAP.Mvc\\Data\\ApplicationDbContext.cs",
@@ -215,27 +472,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "PAP.Mvc\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "PAP.Mvc\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:49:28.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Program.cs",
               "RelativeDocumentMoniker": "PAP.Mvc\\Program.cs",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Program.cs",
               "RelativeToolTip": "PAP.Mvc\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:49:17.605Z"
+              "WhenOpened": "2025-03-13T00:49:17.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

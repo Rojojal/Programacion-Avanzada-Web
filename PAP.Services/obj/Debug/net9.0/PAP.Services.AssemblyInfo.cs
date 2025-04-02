@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAP.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7304d163e5962aadab2852c0f8be861f2d51a44b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81f471e37ff54482eafadc28b6ddcadda02db72")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAP.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAP.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
