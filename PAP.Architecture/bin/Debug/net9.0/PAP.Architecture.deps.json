@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "PAP.Architecture/1.0.0": {
+        "dependencies": {
+          "PAP.Models": "1.0.0"
+        },
         "runtime": {
           "PAP.Architecture.dll": {}
+        }
+      },
+      "PAP.Models/1.0.0": {
+        "runtime": {
+          "PAP.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "PAP.Architecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PAP.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

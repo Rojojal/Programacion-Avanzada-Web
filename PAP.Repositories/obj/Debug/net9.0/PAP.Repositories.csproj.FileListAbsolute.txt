@@ -10,3 +10,11 @@ C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Reposi
 C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\refint\PAP.Repositories.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\ref\PAP.Repositories.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repositories.csproj.AssemblyReference.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Architecture.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Data.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Models.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Architecture.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Data.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\bin\Debug\net9.0\PAP.Models.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Repositories\obj\Debug\net9.0\PAP.Repo.F1F19405.Up2Date

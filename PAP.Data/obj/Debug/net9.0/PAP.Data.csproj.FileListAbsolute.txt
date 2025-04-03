@@ -10,3 +10,6 @@ C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\refint\PAP.Data.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\ref\PAP.Data.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\bin\Debug\net9.0\PAP.Data.runtimeconfig.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.csproj.AssemblyReference.cache
+C:\Users\jueto\source\repos\PAP.API\PAP.Data\obj\Debug\net9.0\PAP.Data.genruntimeconfig.cache

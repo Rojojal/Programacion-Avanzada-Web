@@ -1,0 +1,12 @@
+﻿
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+
+dotnet ef dbcontext scaffold "Server=(LocalDb)\MSSQLLocalDB;Database=aspnet-PAP.Mvc-75877624-2b5d-4de4-af1d-754cadeb9234;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+
+dotnet tool install --global dotnet-ef
+dotnet tool update --global dotnet-ef
+
+https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli

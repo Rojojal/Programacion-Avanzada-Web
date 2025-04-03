@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "PAP.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/PAP.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAP.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PAP.Models/1.0.0": {
+      "type": "project",
+      "path": "../PAP.Models/PAP.Models.csproj",
+      "msbuildProject": "../PAP.Models/PAP.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "PAP.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jueto\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+              "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

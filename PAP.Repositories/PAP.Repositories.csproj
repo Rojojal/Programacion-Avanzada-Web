@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PAP.Architecture\PAP.Architecture.csproj" />
+    <ProjectReference Include="..\PAP.Data\PAP.Data.csproj" />
+  </ItemGroup>
+
 </Project>
