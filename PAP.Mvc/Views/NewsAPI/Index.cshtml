@@ -1,43 +1,85 @@
 ﻿@model List<NewsAPI.Models.Article>
 
-<div class="container mt-4">
-    <h2 class="text-center mb-4">Últimas Noticias</h2>
+<div class="container-fluid">
 
-    <div class="row">
-        @if (Model != null && Model.Any())
-        {
-            @foreach (var article in Model)
+    <div class="bg-dark text-white sidebar p-3" style="width: 250px; height: 100vh; position: fixed; top: 0; left: 0; z-index: 100;">
+        <h4 class="text-center">Menu</h4>
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">
+                    <i class="fas fa-home"></i> Home
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-controller="NewsAPI" asp-action="Index">
+                    <i class="fas fa-newspaper"></i> News
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-controller="About" asp-action="Index">
+                    <i class="fas fa-info-circle"></i> About Us
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-controller="Contact" asp-action="Index">
+                    <i class="fas fa-envelope"></i> Contact
+                </a>
+            </li>
+            @if (User.Identity.IsAuthenticated)
             {
-                <div class="col-md-4 mb-4">
-                    <div class="card shadow-sm h-100">
-                        @if (!string.IsNullOrEmpty(article.UrlToImage))
-                        {
-                            <img src="@article.UrlToImage" class="card-img-top" alt="Imagen de la noticia">
-                        }
-                        <div class="card-body d-flex flex-column">
-                            <h5 class="card-title">@article.Title</h5>
-                            <p class="card-text">@article.Description</p>
-                            <a href="@article.Url" class="btn btn-primary mt-auto" target="_blank">Leer más</a>
-                        </div>
-                    </div>
-                </div>
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-area="" asp-controller="Dashboard" asp-action="Index">
+                        <i class="fas fa-tachometer-alt"></i> Dashboard
+                    </a>
+                </li>
             }
-        }
-        else
-        {
-            <div class="col-12">
-                <p class="text-center">No hay noticias disponibles.</p>
+        </ul>
+    </div>
+
+
+    <div class="container-fluid" style="margin-left: 250px; padding-top: 20px;">
+     
+        <div class="container mt-4">
+            <h2 class="text-center mb-4">Últimas Noticias</h2>
+
+            <div class="row">
+                @if (Model != null && Model.Any())
+                {
+                    @foreach (var article in Model)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="card shadow-sm h-100">
+                                @if (!string.IsNullOrEmpty(article.UrlToImage))
+                                {
+                                    <img src="@article.UrlToImage" class="card-img-top" alt="Imagen de la noticia">
+                                }
+                                <div class="card-body d-flex flex-column">
+                                    <h5 class="card-title">@article.Title</h5>
+                                    <p class="card-text">@article.Description</p>
+                                    <a href="@article.Url" class="btn btn-primary mt-auto" target="_blank">Leer más</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="col-12">
+                        <p class="text-center">No hay noticias disponibles.</p>
+                    </div>
+                }
             </div>
-        }
+        </div>
+
+      
+        <div class="container mt-5">
+            <h2 class="text-center">Estadísticas de Noticias</h2>
+            <canvas id="newsChart"></canvas>
+        </div>
     </div>
 </div>
 
-<!-- Sección de Gráficos -->
-<div class="container mt-5">
-    <h2 class="text-center">Estadísticas de Noticias</h2>
-    <canvas id="newsChart"></canvas>
-</div>
-
+<!-- Script de Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -57,3 +99,8 @@
         });
     });
 </script>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>

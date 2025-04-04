@@ -11,4 +11,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PAP.Architecture\PAP.Architecture.csproj" />
+    <ProjectReference Include="..\PAP.Business\PAP.Business.csproj" />
+    <ProjectReference Include="..\PAP.Data\PAP.Data.csproj" />
+    <ProjectReference Include="..\PAP.Models\PAP.Models.csproj" />
+    <ProjectReference Include="..\PAP.Services\PAP.Services.csproj" />
+  </ItemGroup>
+
 </Project>

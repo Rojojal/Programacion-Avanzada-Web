@@ -25,10 +25,10 @@ namespace PAP.Services
 
             var response = _newsApiClient.GetEverything(new EverythingRequest
             {
-                Q = "Apple",
-                SortBy = SortBys.Popularity,
+                Q = "technology",
+                SortBy = SortBys.PublishedAt,
                 Language = Languages.EN,
-                To = today
+              
             });
 
             return response.Status == Statuses.Ok ? response.Articles : new List<Article>();
