@@ -1006,7 +1006,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3"
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
+          "PAP.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PAP.Data.dll": {}

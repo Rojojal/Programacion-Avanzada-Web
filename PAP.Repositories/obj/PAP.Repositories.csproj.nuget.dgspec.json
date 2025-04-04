@@ -100,7 +100,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

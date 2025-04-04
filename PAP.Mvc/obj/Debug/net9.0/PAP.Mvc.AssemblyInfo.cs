@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAP.Mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79639ebafb3f74de8b6763599364bcc78b87e1d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90948f8b953f3534908c1dcd3676744fb9a9d819")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAP.Mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAP.Mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

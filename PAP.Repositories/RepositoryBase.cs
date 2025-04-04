@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PAP.Architecture.Exceptions;
 using PAP.Data.Models;
-using PAP.Models;
 
 namespace PAP.Repositories;
 

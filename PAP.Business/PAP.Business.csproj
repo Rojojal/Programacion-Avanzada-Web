@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PAP.Models\PAP.Models.csproj" />
+    <ProjectReference Include="..\PAP.Repositories\PAP.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -257,6 +257,12 @@ C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\runtimes\win-arm64\
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Architecture.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Models.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Services.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Services.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Architecture.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Models.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.csproj.AssemblyReference.cache
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.AssemblyInfoInputs.cache
@@ -405,12 +411,10 @@ C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\staticwebassets\msb
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PAP.Mvc.props
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PAP.Mvc.props
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.csproj.Up2Date
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\refint\PAP.Mvc.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.genruntimeconfig.cache
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\ref\PAP.Mvc.dll
-C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Services.dll
-C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Services.pdb

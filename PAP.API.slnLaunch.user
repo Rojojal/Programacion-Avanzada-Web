@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "PAP.API\\PAP.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PAP.Mvc\\PAP.Mvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

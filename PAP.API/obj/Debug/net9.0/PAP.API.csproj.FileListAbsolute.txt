@@ -8,6 +8,9 @@ C:\Users\jueto\source\repos\PAP.API\PAP.API\bin\Debug\net9.0\PAP.API.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.API\bin\Debug\net9.0\PAP.API.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\PAP.API.csproj.AssemblyReference.cache
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\PAP.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\PAP.API.AssemblyInfoInputs.cache
@@ -26,6 +29,7 @@ C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\staticwebassets\msb
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PAP.API.props
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PAP.API.props
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\PAP.API.csproj.Up2Date
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\PAP.API.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.API\obj\Debug\net9.0\refint\PAP.API.dll

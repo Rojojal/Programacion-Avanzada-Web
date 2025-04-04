@@ -3004,11 +3004,36 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
+      "PAP.Architecture/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "PAP.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PAP.Architecture.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAP.Architecture.dll": {}
+        }
+      },
+      "PAP.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/PAP.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAP.Models.dll": {}
+        }
+      },
       "PAP.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "NewsAPI": "0.7.0"
+          "NewsAPI": "0.7.0",
+          "PAP.Architecture": "1.0.0",
+          "PAP.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PAP.Services.dll": {}
@@ -8148,6 +8173,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "PAP.Architecture/1.0.0": {
+      "type": "project",
+      "path": "../PAP.Architecture/PAP.Architecture.csproj",
+      "msbuildProject": "../PAP.Architecture/PAP.Architecture.csproj"
+    },
+    "PAP.Models/1.0.0": {
+      "type": "project",
+      "path": "../PAP.Models/PAP.Models.csproj",
+      "msbuildProject": "../PAP.Models/PAP.Models.csproj"
     },
     "PAP.Services/1.0.0": {
       "type": "project",

@@ -10,4 +10,9 @@
     <PackageReference Include="NewsAPI" Version="0.7.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PAP.Architecture\PAP.Architecture.csproj" />
+    <ProjectReference Include="..\PAP.Models\PAP.Models.csproj" />
+  </ItemGroup>
+
 </Project>

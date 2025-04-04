@@ -18,4 +18,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PAP.Models\PAP.Models.csproj" />
+  </ItemGroup>
+
 </Project>
