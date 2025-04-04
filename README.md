@@ -28,6 +28,12 @@ La arquitectura del proyecto se basa en la creacion de un PAP.API, PAP.Mvc y dif
 - PAP.Servicies
 - (Explicar q tiene)
 
+- Comandos utilizados: 
+dotnet aspnet-codegenerator identity -dc ApplicationDbContext (creacion de vistas pq no son visibles)
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+dotnet ef dbcontext scaffold "Server=(LocalDb)\MSSQLLocalDB;Database=aspnet-PAP.Mvc-75877624-2b5d-4de4-af1d-754cadeb9234;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+
 ## 📦 Librerías/Paquetes NuGet Utilizados  
 - Microsoft.EntityFrameworkCore.SqlServer
 - Microsoft.EntityFrameworkCore.Tools
