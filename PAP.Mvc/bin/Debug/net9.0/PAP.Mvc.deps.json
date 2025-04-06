@@ -11,10 +11,13 @@
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.3",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.3",
           "Microsoft.AspNetCore.Identity.UI": "9.0.3",
+          "Microsoft.EntityFrameworkCore.Design": "9.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.3",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0",
           "NewsAPI": "0.7.0",
+          "PAP.Business": "1.0.0",
+          "PAP.Models": "1.0.0",
           "PAP.Services": "1.0.0"
         },
         "runtime": {
@@ -2191,9 +2194,45 @@
           }
         }
       },
+      "PAP.Business/1.0.0": {
+        "dependencies": {
+          "PAP.Models": "1.0.0",
+          "PAP.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "PAP.Business.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PAP.Data/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
+          "PAP.Models": "1.0.0"
+        },
+        "runtime": {
+          "PAP.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "PAP.Models/1.0.0": {
         "runtime": {
           "PAP.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PAP.Repositories/1.0.0": {
+        "dependencies": {
+          "PAP.Architecture": "1.0.0",
+          "PAP.Data": "1.0.0"
+        },
+        "runtime": {
+          "PAP.Repositories.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -3387,7 +3426,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "PAP.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PAP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "PAP.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PAP.Repositories/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

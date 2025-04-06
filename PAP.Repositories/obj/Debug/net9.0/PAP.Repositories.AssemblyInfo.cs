@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAP.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90948f8b953f3534908c1dcd3676744fb9a9d819")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7c799ee13bfa41019130a4996a20571c04832e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAP.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAP.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

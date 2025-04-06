@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using PAP.Data.Models;
 
 namespace PAP.Mvc.Data;
 
@@ -10,4 +11,6 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
+
+public DbSet<PAP.Data.Models.Product> Product { get; set; } = default!;
 }

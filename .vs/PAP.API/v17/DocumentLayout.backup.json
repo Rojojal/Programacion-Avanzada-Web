@@ -3,40 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|solutionrelative:pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{932AAC36-7F08-4235-B0A3-5860CAD78079}|PAP.Repositories\\PAP.Repositories.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{932AAC36-7F08-4235-B0A3-5860CAD78079}|PAP.Repositories\\PAP.Repositories.csproj|solutionrelative:pap.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83DE2F41-49EF-4390-8780-A4F08DC27FCA}|PAP.API\\PAP.API.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83DE2F41-49EF-4390-8780-A4F08DC27FCA}|PAP.API\\PAP.API.csproj|solutionrelative:pap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83DE2F41-49EF-4390-8780-A4F08DC27FCA}|PAP.API\\PAP.API.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83DE2F41-49EF-4390-8780-A4F08DC27FCA}|PAP.API\\PAP.API.csproj|solutionrelative:pap.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBB78D3-0E3A-403A-9647-ECBF7E8D1028}|PAP.Business\\PAP.Business.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBB78D3-0E3A-403A-9647-ECBF7E8D1028}|PAP.Business\\PAP.Business.csproj|solutionrelative:pap.business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932AAC36-7F08-4235-B0A3-5860CAD78079}|PAP.Repositories\\PAP.Repositories.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932AAC36-7F08-4235-B0A3-5860CAD78079}|PAP.Repositories\\PAP.Repositories.csproj|solutionrelative:pap.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FBB78D3-0E3A-403A-9647-ECBF7E8D1028}|PAP.Business\\PAP.Business.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FBB78D3-0E3A-403A-9647-ECBF7E8D1028}|PAP.Business\\PAP.Business.csproj|solutionrelative:pap.business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DE2F41-49EF-4390-8780-A4F08DC27FCA}|PAP.API\\PAP.API.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DE2F41-49EF-4390-8780-A4F08DC27FCA}|PAP.API\\PAP.API.csproj|solutionrelative:pap.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|solutionrelative:pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A074EE4E-C1A1-479C-BA89-7B7D3997DC59}|PAP.Architecture\\PAP.Architecture.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.architecture\\providers\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A074EE4E-C1A1-479C-BA89-7B7D3997DC59}|PAP.Architecture\\PAP.Architecture.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.architecture\\exceptions\\pawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A074EE4E-C1A1-479C-BA89-7B7D3997DC59}|PAP.Architecture\\PAP.Architecture.csproj|solutionrelative:pap.architecture\\exceptions\\pawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -102,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 63,
+          "SelectedChildIndex": 65,
           "Children": [
             {
               "$type": "Bookmark",
@@ -330,72 +354,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Controllers\\ProductAPIController.cs",
-              "RelativeDocumentMoniker": "PAP.API\\Controllers\\ProductAPIController.cs",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Controllers\\ProductAPIController.cs",
-              "RelativeToolTip": "PAP.API\\Controllers\\ProductAPIController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:31:05.095Z",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T00:47:43.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Program.cs",
-              "RelativeDocumentMoniker": "PAP.API\\Program.cs",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Program.cs",
-              "RelativeToolTip": "PAP.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:00:30.191Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T00:46:43.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "PAP.Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "PAP.Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Program.cs",
+              "RelativeToolTip": "PAP.Mvc\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:07:14.457Z",
+              "WhenOpened": "2025-04-06T00:41:27.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T23:49:23.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\MainController.cs",
+              "RelativeToolTip": "PAP.Mvc\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:55:48.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PAP.Mvc\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:39:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\ProductManager.cs",
               "RelativeDocumentMoniker": "PAP.Business\\ProductManager.cs",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\ProductManager.cs",
               "RelativeToolTip": "PAP.Business\\ProductManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwCkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T02:19:55.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwC8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T23:28:36.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
@@ -408,33 +458,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
-              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
-              "RelativeToolTip": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T21:34:04.376Z",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PAP.Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "PAP.Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:07:14.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewsAPIService.cs",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
-              "RelativeDocumentMoniker": "PAP.Services\\NewsAPIService.cs",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
-              "RelativeToolTip": "PAP.Services\\NewsAPIService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:43:30.931Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T23:21:48.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "NewsAPIController.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\NewsAPIController.cs",
               "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\NewsAPIController.cs",
@@ -447,19 +497,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StringExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\Extensions\\StringExtensions.cs",
-              "RelativeDocumentMoniker": "PAP.Architecture\\Extensions\\StringExtensions.cs",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\Extensions\\StringExtensions.cs",
-              "RelativeToolTip": "PAP.Architecture\\Extensions\\StringExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Program.cs",
+              "RelativeDocumentMoniker": "PAP.API\\Program.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Program.cs",
+              "RelativeToolTip": "PAP.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:21:44.507Z"
+              "WhenOpened": "2025-04-04T05:00:30.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T21:34:04.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "PAP.API\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.API\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "PAP.API\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:31:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T23:28:36.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\HomeController.cs",
@@ -467,23 +557,51 @@
               "RelativeToolTip": "PAP.Mvc\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T05:07:22.744Z"
+              "WhenOpened": "2025-04-02T05:07:22.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "NewsAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
+              "RelativeDocumentMoniker": "PAP.Services\\NewsAPIService.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
+              "RelativeToolTip": "PAP.Services\\NewsAPIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:43:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "PAP.Architecture\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "PAP.Architecture\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:21:44.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "PAP.Repositories\\RepositoryBase.cs",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\RepositoryBase.cs",
               "RelativeToolTip": "PAP.Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAIBJwAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAIBZwAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:13:23.303Z"
+              "WhenOpened": "2025-04-03T18:13:23.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "PAWException.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\Exceptions\\PAWException.cs",
               "RelativeDocumentMoniker": "PAP.Architecture\\Exceptions\\PAWException.cs",
@@ -491,11 +609,12 @@
               "RelativeToolTip": "PAP.Architecture\\Exceptions\\PAWException.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAcwEUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:21:27.275Z"
+              "WhenOpened": "2025-04-03T18:21:27.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "HttpClientExtensions.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\Extensions\\HttpClientExtensions.cs",
               "RelativeDocumentMoniker": "PAP.Architecture\\Extensions\\HttpClientExtensions.cs",
@@ -503,11 +622,12 @@
               "RelativeToolTip": "PAP.Architecture\\Extensions\\HttpClientExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:21:38.692Z"
+              "WhenOpened": "2025-04-03T18:21:38.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "JsonProvider.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\Providers\\JsonProvider.cs",
               "RelativeDocumentMoniker": "PAP.Architecture\\Providers\\JsonProvider.cs",
@@ -515,11 +635,12 @@
               "RelativeToolTip": "PAP.Architecture\\Providers\\JsonProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:24:14.942Z"
+              "WhenOpened": "2025-04-03T18:24:14.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -527,11 +648,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T22:36:43.457Z"
+              "WhenOpened": "2025-03-23T22:36:43.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\Error.cshtml",
@@ -539,11 +661,12 @@
               "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T23:28:27.261Z"
+              "WhenOpened": "2025-03-13T23:28:27.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\_ViewImports.cshtml",
@@ -551,11 +674,12 @@
               "RelativeToolTip": "PAP.Mvc\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T23:28:25.003Z"
+              "WhenOpened": "2025-03-13T23:28:25.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\_ViewStart.cshtml",
@@ -563,11 +687,12 @@
               "RelativeToolTip": "PAP.Mvc\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T23:28:23.63Z"
+              "WhenOpened": "2025-03-13T23:28:23.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Home\\Privacy.cshtml",
@@ -575,11 +700,12 @@
               "RelativeToolTip": "PAP.Mvc\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T23:26:12.546Z"
+              "WhenOpened": "2025-03-13T23:26:12.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -587,31 +713,21 @@
               "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T23:25:03.115Z"
+              "WhenOpened": "2025-03-13T23:25:03.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PAP.Mvc\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "PAP.Mvc\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:02:31.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Program.cs",
-              "RelativeDocumentMoniker": "PAP.Mvc\\Program.cs",
-              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Program.cs",
-              "RelativeToolTip": "PAP.Mvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:49:17.605Z"
+              "WhenOpened": "2025-03-13T01:02:31.751Z",
+              "EditorCaption": ""
             }
           ]
         },

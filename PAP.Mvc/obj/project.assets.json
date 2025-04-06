@@ -3017,6 +3017,34 @@
           "bin/placeholder/PAP.Architecture.dll": {}
         }
       },
+      "PAP.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "PAP.Models": "1.0.0",
+          "PAP.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PAP.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAP.Business.dll": {}
+        }
+      },
+      "PAP.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
+          "PAP.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PAP.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAP.Data.dll": {}
+        }
+      },
       "PAP.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -3025,6 +3053,20 @@
         },
         "runtime": {
           "bin/placeholder/PAP.Models.dll": {}
+        }
+      },
+      "PAP.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "PAP.Architecture": "1.0.0",
+          "PAP.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PAP.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAP.Repositories.dll": {}
         }
       },
       "PAP.Services/1.0.0": {
@@ -8179,10 +8221,25 @@
       "path": "../PAP.Architecture/PAP.Architecture.csproj",
       "msbuildProject": "../PAP.Architecture/PAP.Architecture.csproj"
     },
+    "PAP.Business/1.0.0": {
+      "type": "project",
+      "path": "../PAP.Business/PAP.Business.csproj",
+      "msbuildProject": "../PAP.Business/PAP.Business.csproj"
+    },
+    "PAP.Data/1.0.0": {
+      "type": "project",
+      "path": "../PAP.Data/PAP.Data.csproj",
+      "msbuildProject": "../PAP.Data/PAP.Data.csproj"
+    },
     "PAP.Models/1.0.0": {
       "type": "project",
       "path": "../PAP.Models/PAP.Models.csproj",
       "msbuildProject": "../PAP.Models/PAP.Models.csproj"
+    },
+    "PAP.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../PAP.Repositories/PAP.Repositories.csproj",
+      "msbuildProject": "../PAP.Repositories/PAP.Repositories.csproj"
     },
     "PAP.Services/1.0.0": {
       "type": "project",
@@ -8195,10 +8252,13 @@
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 9.0.3",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.0.3",
       "Microsoft.AspNetCore.Identity.UI >= 9.0.3",
+      "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.3",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0",
       "NewsAPI >= 0.7.0",
+      "PAP.Business >= 1.0.0",
+      "PAP.Models >= 1.0.0",
       "PAP.Services >= 1.0.0"
     ]
   },
@@ -8234,6 +8294,12 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\PAP.Business.csproj": {
+              "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\PAP.Business.csproj"
+            },
+            "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+              "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
+            },
             "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj": {
               "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj"
             }
@@ -8265,6 +8331,12 @@
             "version": "[9.0.3, )"
           },
           "Microsoft.AspNetCore.Identity.UI": {
+            "target": "Package",
+            "version": "[9.0.3, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[9.0.3, )"
           },

@@ -418,3 +418,9 @@ C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\refint\PAP.Mvc.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.genruntimeconfig.cache
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\ref\PAP.Mvc.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Business.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Data.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Repositories.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Business.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Data.pdb
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\bin\Debug\net9.0\PAP.Repositories.pdb

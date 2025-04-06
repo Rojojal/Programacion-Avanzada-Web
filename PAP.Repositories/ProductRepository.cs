@@ -14,16 +14,46 @@ namespace PAP.Repositories
 
             Task<Product> FindAsync(int id);
 
+            Task<bool> AddProductAsync(Product product);
+
+            Task<bool> DeleteProductAsync(Product product);
+
+            Task<bool> UpdateProductAsync(Product product);
+
+            Task<Product> GetProductAsync(int id);
+
+    }
+
+    public class ProductRepository : RepositoryBase<Product>, IProductRepository
+    {
+
+        public async Task<IEnumerable<Product>> GetAllProductsAsync()
+        {
+            return await ReadAsync();
         }
 
-        public class ProductRepository : RepositoryBase<Product>, IProductRepository
+        public async Task<bool> AddProductAsync(Product product)
         {
+            return await CreateAsync(product);
+        }
 
-            public async Task<IEnumerable<Product>> GetAllProductsAsync()
+        public async Task<bool> DeleteProductAsync(Product product)
+        {
+            return await DeleteAsync(product);
+        }
+
+        public async Task<Product> GetProductAsync(int id)
+        {
+            var product = await ReadAsync();
+            return product.SingleOrDefault(x => x.ProductId == id);
+        }
+
+        public async Task<bool> UpdateProductAsync(Product product)
             {
-                return await ReadAsync();
+                return await UpdateAsync(product);
             }
 
-        }
+
+    }
 
 }
