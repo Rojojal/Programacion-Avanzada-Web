@@ -10,3 +10,15 @@ C:\Users\jueto\source\repos\PAP.API\PAP.Models\obj\Debug\net9.0\PAP.Models.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Models\obj\Debug\net9.0\refint\PAP.Models.dll
 C:\Users\jueto\source\repos\PAP.API\PAP.Models\obj\Debug\net9.0\PAP.Models.pdb
 C:\Users\jueto\source\repos\PAP.API\PAP.Models\obj\Debug\net9.0\ref\PAP.Models.dll
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\bin\Debug\net9.0\PAP.Models.deps.json
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\bin\Debug\net9.0\PAP.Models.dll
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\bin\Debug\net9.0\PAP.Models.pdb
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\PAP.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\PAP.Models.AssemblyInfoInputs.cache
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\PAP.Models.AssemblyInfo.cs
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\PAP.Models.csproj.CoreCompileInputs.cache
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\PAP.Models.sourcelink.json
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\PAP.Models.dll
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\refint\PAP.Models.dll
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\PAP.Models.pdb
+C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Models\obj\Debug\net9.0\ref\PAP.Models.dll

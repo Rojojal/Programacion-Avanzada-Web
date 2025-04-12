@@ -1,0 +1,71 @@
+﻿@model List<PAP.Models.Models.WeatherInfo>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Clima Actual por Ciudad</h2>
+    <div class="row">
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var weather in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm h-100">
+                        <img src="@weather.IconUrl" class="card-img-top" alt="Icono del clima">
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">@weather.City</h5>
+                            <p class="card-text">@weather.Description</p>
+                            <p class="card-text">Temperatura: @weather.Temperature°C</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12">
+                <p class="text-center">No hay datos del clima disponibles.</p>
+            </div>
+        }
+    </div>
+
+    @* Sección del gráfico *@
+    @if (Model != null && Model.Any())
+    {
+        <div class="container mt-5">
+            <h2 class="text-center">Temperaturas por Ciudad</h2>
+            <canvas id="weatherChart"></canvas>
+        </div>
+    }
+</div>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const ctx = document.getElementById('weatherChart').getContext('2d');
+
+        const weatherData = {
+            labels: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(w => w.City))),
+            datasets: [{
+                label: 'Temperatura (°C)',
+                data: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(w => w.Temperature))),
+                backgroundColor: ['#36A2EB', '#FF6384', '#FFCE56', '#4BC0C0', '#9966FF']
+            }]
+        };
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: weatherData,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: '°C'
+                        }
+                    }
+                }
+            }
+        });
+    });
+</script>

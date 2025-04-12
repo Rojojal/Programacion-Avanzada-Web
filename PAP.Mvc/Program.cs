@@ -21,7 +21,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IProductManager, ProductManager>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<INewsAPIService, NewsAPIService>();
-
+builder.Services.AddHttpClient();
 
 var app = builder.Build();
 
@@ -53,4 +53,7 @@ app.MapRazorPages()
    .WithStaticAssets();
 
 app.Run();
+
+builder.Services.AddHttpClient();
+
 

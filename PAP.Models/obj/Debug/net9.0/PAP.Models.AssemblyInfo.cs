@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAP.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90948f8b953f3534908c1dcd3676744fb9a9d819")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46385b44a0ffffff4b6537f51deb6534cc00177")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAP.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAP.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
