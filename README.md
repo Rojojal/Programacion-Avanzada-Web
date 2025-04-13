@@ -6,13 +6,14 @@
 - **Jonathan Gerardo Esquivel Guillen**  
 - **Nicole Torres Rodriguez**  
 
-
-
 ## 📌 Arquitectura del Proyecto  
 La arquitectura del proyecto se basa en la creacion de un PAP.API, PAP.Mvc y diferentes class libraries como, Architecture, Business, Data, Models, Repositories y Servicies.
 
+Nosotros trabajamos una Arquitectura Limpia, con capas de Modelos, Repositorios y Servicies, para alimentar el API existe el API controller que es el que declara y esta es la infraestructura que la alimenta donde convergen modelos
+repositorios y servicios y finalmente la vista que consulta el API y usamos los servicios y repositorios que usan interfaces, que son la declaración que no tiene Código que implementar, el controlador del API hereda de una clase que se llamada controller base,
+
 - PAP.API
-- (Explicar q tiene)
+- Donde se crean las API como Noticias, Clima y Perro.
 - PAP.Mvc
 - (Explicar q tiene)
 - AP.Architecture
@@ -20,7 +21,7 @@ La arquitectura del proyecto se basa en la creacion de un PAP.API, PAP.Mvc y dif
 - PAP.Business
 - (Explicar q tiene)
 - PAP.Data
-- (Explicar q tiene)
+- Contiene el database Context el cual se conecta con la base de datos. 
 - PAP.Models
 - (Explicar q tiene)
 - PAP.Repositories
