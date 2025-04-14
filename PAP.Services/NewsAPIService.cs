@@ -25,13 +25,13 @@ namespace PAP.Services
 
             var response = _newsApiClient.GetEverything(new EverythingRequest
             {
-                Q = "technology",
+                Sources = new List<string> { "bbc-news", "cnn", "the-new-york-times", "the-wall-street-journal" },
                 SortBy = SortBys.PublishedAt,
                 Language = Languages.EN,
-              
+                
             });
 
-            return response.Status == Statuses.Ok ? response.Articles.Take(15).ToList() : new List<Article>();
+            return response.Status == Statuses.Ok ? response.Articles.Take(20).ToList() : new List<Article>();
 
             
         }

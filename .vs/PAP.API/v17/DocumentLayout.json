@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|solutionrelative:pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\newsapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}|PAP.Services\\PAP.Services.csproj|solutionrelative:pap.services\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|solutionrelative:pap.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED6639C-D4D7-4801-93D8-345529AFED6C}|PAP.Mvc\\PAP.Mvc.csproj|c:\\users\\jueto\\source\\repos\\pap.api\\pap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -82,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 61,
+          "SelectedChildIndex": 60,
           "Children": [
             {
               "$type": "Bookmark",
@@ -326,52 +334,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "PAP.Mvc\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:13:01.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T19:29:32.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "NewsAPIController.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\NewsAPIController.cs",
               "RelativeDocumentMoniker": "PAP.Mvc\\Controllers\\NewsAPIController.cs",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Controllers\\NewsAPIController.cs",
               "RelativeToolTip": "PAP.Mvc\\Controllers\\NewsAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T06:00:05.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NewsAPIService.cs",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
               "RelativeDocumentMoniker": "PAP.Services\\NewsAPIService.cs",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\NewsAPIService.cs",
               "RelativeToolTip": "PAP.Services\\NewsAPIService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T05:59:49.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "PAP.Mvc\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAH0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-14T04:06:33.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Weather\\Index.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Weather\\Index.cshtml",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Weather\\Index.cshtml",
               "RelativeToolTip": "PAP.Mvc\\Views\\Weather\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-14T04:06:25.248Z",
               "EditorCaption": ""
@@ -384,14 +418,14 @@
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
               "RelativeToolTip": "PAP.Mvc\\Views\\NewsAPI\\Index.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-14T04:06:14.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ChangePassword.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
@@ -399,11 +433,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T03:16:25.1Z"
+              "WhenOpened": "2025-04-14T03:16:25.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_ManageNav.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
@@ -411,11 +446,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T03:10:07.786Z"
+              "WhenOpened": "2025-04-14T03:10:07.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
@@ -423,11 +459,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T03:09:56.211Z"
+              "WhenOpened": "2025-04-14T03:09:56.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Email.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
@@ -435,11 +472,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T00:49:57.9Z"
+              "WhenOpened": "2025-04-14T00:49:57.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DownloadPersonalData.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
@@ -447,11 +485,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T00:49:57.326Z"
+              "WhenOpened": "2025-04-14T00:49:57.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
@@ -459,11 +498,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T00:13:42.829Z"
+              "WhenOpened": "2025-04-14T00:13:42.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LoginWithRecoveryCode.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
@@ -471,11 +511,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T00:13:21.95Z"
+              "WhenOpened": "2025-04-14T00:13:21.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -483,11 +524,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T00:13:18.303Z"
+              "WhenOpened": "2025-04-14T00:13:18.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "RegisterConfirmation.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
@@ -495,11 +537,12 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T23:29:18.818Z"
+              "WhenOpened": "2025-04-13T23:29:18.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -507,36 +550,38 @@
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwDcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T23:09:12.518Z"
+              "WhenOpened": "2025-04-13T23:09:12.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "PAP.Mvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T22:45:03.036Z"
+              "WhenOpened": "2025-04-13T22:45:03.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PAP.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T22:43:35.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PAP.Mvc\\Views\\Home\\Index.cshtml",
@@ -544,7 +589,8 @@
               "RelativeToolTip": "PAP.Mvc\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T22:43:26.194Z"
+              "WhenOpened": "2025-04-13T22:43:26.194Z",
+              "EditorCaption": ""
             }
           ]
         },

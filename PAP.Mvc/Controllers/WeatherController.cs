@@ -8,7 +8,7 @@ namespace PAP.Mvc.Controllers
     public class WeatherController : Controller
     {
         private readonly IHttpClientFactory _httpClientFactory;
-        private readonly string apiKey = "06a49abe9fdf9afbf01f672a6fb7526b"; // Reemplazá por tu API key
+        private readonly string apiKey = "06a49abe9fdf9afbf01f672a6fb7526b"; 
 
         public WeatherController(IHttpClientFactory httpClientFactory)
         {

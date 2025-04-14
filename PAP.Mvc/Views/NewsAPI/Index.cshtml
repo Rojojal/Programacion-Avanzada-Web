@@ -74,12 +74,13 @@
 @section Scripts {
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
-        // Agrupamos las noticias por fuente y contamos cuántas hay de cada una
         const articles = @Html.Raw(JsonSerializer.Serialize(Model));
 
         const sourceCountMap = {};
+
         articles.forEach(article => {
-            const sourceName = article.source?.name || "Desconocido";
+            const sourceName = article.Source?.Name || article.Source?.Id || "Desconocido";
+
             if (sourceCountMap[sourceName]) {
                 sourceCountMap[sourceName]++;
             } else {
@@ -87,38 +88,64 @@
             }
         });
 
-        // Convertimos el objeto a arrays de nombres y cantidades (top 5)
-        const sortedSources = Object.entries(sourceCountMap)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 5);
+        const sourceLabels = Object.keys(sourceCountMap);
+        const sourceCounts = Object.values(sourceCountMap);
 
-        const sourceNames = sortedSources.map(entry => entry[0]);
-        const sourceCounts = sortedSources.map(entry => entry[1]);
+        // Nueva paleta de colores
+        const backgroundColors = [
+            'rgba(255, 99, 132, 0.6)', // rojo
+            'rgba(54, 162, 235, 0.6)', // azul
+            'rgba(255, 206, 86, 0.6)', // amarillo
+            'rgba(75, 192, 192, 0.6)', // verde agua
+            'rgba(153, 102, 255, 0.6)' // violeta
+        ];
+
+        const borderColors = [
+            'rgba(255, 99, 132, 1)', // rojo
+            'rgba(54, 162, 235, 1)', // azul
+            'rgba(255, 206, 86, 1)', // amarillo
+            'rgba(75, 192, 192, 1)', // verde agua
+            'rgba(153, 102, 255, 1)' // violeta
+        ];
 
         const ctx = document.getElementById('newsChart').getContext('2d');
         const newsChart = new Chart(ctx, {
-            type: 'bar',
+            type: 'bar', // Gráfico de barras horizontales
             data: {
-                labels: sourceNames,
+                labels: sourceLabels,
                 datasets: [{
                     label: 'Cantidad de noticias por fuente',
                     data: sourceCounts,
-                    backgroundColor: 'rgba(255, 99, 132, 0.6)',
-                    borderColor: 'rgba(255, 99, 132, 1)',
+                    backgroundColor: backgroundColors,  // Colores de las barras
+                    borderColor: borderColors,          // Bordes de las barras
                     borderWidth: 1
                 }]
             },
             options: {
+                indexAxis: 'y',  // Cambiado para barras horizontales
                 responsive: true,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Distribución de Noticias por Fuente Confiable',
+                        padding: { top: 10, bottom: 30 },
+                        font: {
+                            size: 18
+                        }
+                    },
+                    legend: {
+                        display: false
+                    }
+                },
                 scales: {
-                    y: {
+                    x: {
                         beginAtZero: true,
                         title: {
                             display: true,
                             text: 'Cantidad de noticias'
                         }
                     },
-                    x: {
+                    y: {
                         title: {
                             display: true,
                             text: 'Fuente de noticia'
@@ -127,8 +154,16 @@
                 }
             }
         });
+
+        console.log("Fuente → Cantidad de noticias:");
+        console.log(sourceCountMap);
+
+        console.log(articles[0]);
+
     </script>
 }
+
+
 
 
 
