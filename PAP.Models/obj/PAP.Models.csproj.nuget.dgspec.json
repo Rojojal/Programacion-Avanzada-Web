@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {}
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj",
         "projectName": "PAP.Models",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

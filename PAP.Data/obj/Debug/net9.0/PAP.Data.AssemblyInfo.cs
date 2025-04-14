@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAP.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90948f8b953f3534908c1dcd3676744fb9a9d819")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f06d1fdab0314743a05a0571f47e8144af4a751b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAP.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAP.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

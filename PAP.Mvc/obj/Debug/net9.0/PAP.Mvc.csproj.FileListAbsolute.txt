@@ -338,7 +338,6 @@ C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\a3ygkwa5
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
-C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\d7nn9vofzj-b9sayid5wm.gz
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\ls8ltdozxy-61n19gt1b8.gz
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\0rkvxadokr-xtxxf3hu2r.gz
 C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\vvo9w5asm1-bqjiyaj88i.gz
@@ -850,3 +849,4 @@ C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Mvc\obj\De
 C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.pdb
 C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Mvc\obj\Debug\net9.0\PAP.Mvc.genruntimeconfig.cache
 C:\Users\JonathanEsquivel\Source\Repos\Programacion-Avanzada-Web2\PAP.Mvc\obj\Debug\net9.0\ref\PAP.Mvc.dll
+C:\Users\jueto\source\repos\PAP.API\PAP.Mvc\obj\Debug\net9.0\compressed\d7nn9vofzj-gmnzysr4mm.gz

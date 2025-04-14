@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Mvc\\PAP.Mvc.csproj": {}
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\PAP.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\PAP.Architecture.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\PAP.Architecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\PAP.Architecture.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\PAP.Architecture.csproj",
         "projectName": "PAP.Architecture",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\PAP.Architecture.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\PAP.Architecture.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
               }
             }
           }
@@ -70,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Business\\PAP.Business.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\PAP.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Business\\PAP.Business.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\PAP.Business.csproj",
         "projectName": "PAP.Business",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Business\\PAP.Business.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Business\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\PAP.Business.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -96,18 +95,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
               },
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Repositories\\PAP.Repositories.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Repositories\\PAP.Repositories.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\PAP.Repositories.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\PAP.Repositories.csproj"
               }
             }
           }
@@ -143,24 +141,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Data\\PAP.Data.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Data\\PAP.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Data\\PAP.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Data\\PAP.Data.csproj",
         "projectName": "PAP.Data",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Data\\PAP.Data.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Data\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Data\\PAP.Data.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -169,15 +167,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
               }
             }
           }
@@ -231,24 +228,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj",
         "projectName": "PAP.Models",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -257,7 +254,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -297,24 +293,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Mvc\\PAP.Mvc.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\PAP.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Mvc\\PAP.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\PAP.Mvc.csproj",
         "projectName": "PAP.Mvc",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Mvc\\PAP.Mvc.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Mvc\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\PAP.Mvc.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -323,21 +319,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Business\\PAP.Business.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Business\\PAP.Business.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\PAP.Business.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Business\\PAP.Business.csproj"
               },
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
               },
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Services\\PAP.Services.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Services\\PAP.Services.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj"
               }
             }
           }
@@ -414,24 +409,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Repositories\\PAP.Repositories.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\PAP.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Repositories\\PAP.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\PAP.Repositories.csproj",
         "projectName": "PAP.Repositories",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Repositories\\PAP.Repositories.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\PAP.Repositories.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -440,18 +435,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\PAP.Architecture.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\PAP.Architecture.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\PAP.Architecture.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\PAP.Architecture.csproj"
               },
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Data\\PAP.Data.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Data\\PAP.Data.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Data\\PAP.Data.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Data\\PAP.Data.csproj"
               }
             }
           }
@@ -487,24 +481,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Services\\PAP.Services.csproj": {
+    "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Services\\PAP.Services.csproj",
+        "projectUniqueName": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj",
         "projectName": "PAP.Services",
-        "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Services\\PAP.Services.csproj",
-        "packagesPath": "C:\\Users\\JonathanEsquivel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Services\\obj\\",
+        "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\PAP.Services.csproj",
+        "packagesPath": "C:\\Users\\jueto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JonathanEsquivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jueto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -513,18 +507,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\PAP.Architecture.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Architecture\\PAP.Architecture.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\PAP.Architecture.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Architecture\\PAP.Architecture.csproj"
               },
-              "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj": {
-                "projectPath": "C:\\Users\\JonathanEsquivel\\Source\\Repos\\Programacion-Avanzada-Web2\\PAP.Models\\PAP.Models.csproj"
+              "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj": {
+                "projectPath": "C:\\Users\\jueto\\source\\repos\\PAP.API\\PAP.Models\\PAP.Models.csproj"
               }
             }
           }
@@ -566,7 +559,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
