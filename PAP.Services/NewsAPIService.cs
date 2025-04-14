@@ -31,7 +31,9 @@ namespace PAP.Services
               
             });
 
-            return response.Status == Statuses.Ok ? response.Articles : new List<Article>();
+            return response.Status == Statuses.Ok ? response.Articles.Take(15).ToList() : new List<Article>();
+
+            
         }
 
     }
