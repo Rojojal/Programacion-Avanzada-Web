@@ -9,6 +9,20 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/PAP.Mvc.styles.css" asp-append-version="true" />
+
+    <style>
+        *, html, body, p, div, table, tr
+        {
+            font-family: '@ViewBag.Font', sans-serif;
+            color: @ViewBag.Color;
+            font-size: @($"{ViewBag.FontSize}px");
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: '@ViewBag.Font', sans-serif;
+            color: @ViewBag.Color;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -25,10 +39,16 @@
                             <a class="nav-link text-white fw-semibold" asp-area="" asp-controller="Home" asp-action="Index">About Us</a>
                         </li>
 
+
+
                         @if (User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-white fw-semibold" asp-area="" asp-controller="NewsAPI" asp-action="Index">Dashboard</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link text-white fw-semibold" asp-area="" asp-controller="Configuration" asp-action="Edit">Configuration</a>
                             </li>
                         }
                     </ul>

@@ -1,0 +1,44 @@
+﻿@model PAP.Models.Models.Configuration
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Widget Configuration</h1>
+
+<hr>
+
+<form asp-action="Edit" method="post">
+    <table class="table">
+        <tr>
+            <th>Font Family</th>
+            <td>
+                <select class="form-control" asp-for="Font" name="Font">
+                    <option value="Arial">Arial</option>
+                    <option value="Courier New">Courier New</option>
+                    <option value="Georgia">Georgia</option>
+                    <option value="Helvetica">Helvetica</option>
+                    <option value="Impact">Impact</option>
+                    <option value="Tahoma">Tahoma</option>
+                    <option value="Times New Roman">Times New Roman</option>
+                    <option value="Verdana">Verdana</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <th>Font Color</th>
+            <td>
+                <input type="color" name="Color" class="form-control" asp-for="Color" value="@Model.Color" />
+            </td>
+        </tr>
+        <tr>
+            <th>Font Size</th>
+            <td>
+                <input type="number" name="FontSize" class="form-control" asp-for="FontSize" min="4" max="64" value="@Model.FontSize" />
+            </td>
+        </tr>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Actualizar</button>
+</form>
+

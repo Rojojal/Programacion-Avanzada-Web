@@ -14,6 +14,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAP.Repositories", "PAP.Repositories\PAP.Repositories.csproj", "{932AAC36-7F08-4235-B0A3-5860CAD78079}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAP.Services", "PAP.Services\PAP.Services.csproj", "{C4D15B81-0AF4-47DF-942D-EB131B4C0CA1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{932AAC36-7F08-4235-B0A3-5860CAD78079} = {932AAC36-7F08-4235-B0A3-5860CAD78079}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAP.Mvc", "PAP.Mvc\PAP.Mvc.csproj", "{0ED6639C-D4D7-4801-93D8-345529AFED6C}"
 EndProject
@@ -60,5 +63,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A91A56-A5CB-4EAF-BFE8-B69B5EC4EB59}
 	EndGlobalSection
 EndGlobal

@@ -7,12 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
     <PackageReference Include="NewsAPI" Version="0.7.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\PAP.Architecture\PAP.Architecture.csproj" />
     <ProjectReference Include="..\PAP.Models\PAP.Models.csproj" />
+	<ProjectReference Include="..\PAP.Repositories\PAP.Repositories.csproj" />
   </ItemGroup>
 
 </Project>
