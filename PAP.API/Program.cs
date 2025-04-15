@@ -30,11 +30,12 @@ builder.Services.AddSwaggerGen();
 // Our services
 builder.Services.AddScoped<IProductManager, ProductManager>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
-
+builder.Services.AddScoped<IDogRepository, DogRepository>();
+builder.Services.AddScoped<IDogService, DogService>();
 
 // Config services
-builder.Services.AddScoped<IConfigurationRepository, ConfigurationRepository>();
 builder.Services.AddScoped<IConfigurationService, ConfigurationService>();
+builder.Services.AddScoped<IConfigurationRepository, ConfigurationRepository>();
 
 var app = builder.Build();
 

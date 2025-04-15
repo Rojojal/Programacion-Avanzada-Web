@@ -12,7 +12,9 @@ namespace PAP.Data
     public class PAPDbContext : DbContext
     {
         public PAPDbContext(DbContextOptions<PAPDbContext> options) : base(options) { }
-
+        public DbSet<Species> Species { get; set; }
+        public DbSet<Breed> Breed { get; set; }
+        public DbSet<Dog> Dog { get; set; }
         public DbSet<Configuration> Configuration { get; set; }
     }
 }

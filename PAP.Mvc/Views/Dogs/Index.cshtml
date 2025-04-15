@@ -1,0 +1,45 @@
+﻿@model List<PAP.Models.Models.Dog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>DogsAPI</h1>
+
+<p>
+    <a>Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Foto</th>
+            <th>Nombre</th>
+            <th>Raza</th>
+            <th>Especie</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dog in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@dog.ImageUrl" alt="@dog.Name" style="max-height: 200px;" />
+                </td>
+                <td>
+                    <h2>@dog.Name</h2>
+                </td>
+                <td>
+                    <h3>@dog.Breed?.Name</h3>
+                </td>
+                <td>
+                    <h4>@dog.Breed?.Species?.Name</h4>
+                </td>
+                <td>
+                    <a>Edit</a> -
+                    <a>Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
