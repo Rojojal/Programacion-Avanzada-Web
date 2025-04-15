@@ -82,9 +82,21 @@ INSERT INTO Dog (Name, ImageUrl, BreedId) VALUES
 ('Rex', 'https://i.imgur.com/wU5dt1l_d.webp?maxwidth=760&fidelity=grand', 1),
 ('Luna', 'https://i.imgur.com/6sgQSYe_d.webp?maxwidth=760&fidelity=grand', 2),
 ('Max', 'https://i.pinimg.com/originals/ff/3b/b3/ff3bb31a54462ea817fac885d88f3a85.jpg', 3),
+
+
 ('Bella', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThitY3oY0-BIqJnY-C2d4JPGqELHz-kok0wg&s', 4),
 ('Nieve', 'https://preview.redd.it/funny-pix-of-my-dog-when-he-waits-outside-of-the-bathroom-v0-xfqwbwbv8r0a1.jpg?width=640&crop=smart&auto=webp&s=bd0f06ef2bd6918aec9ee9d5b5b78e40ff357c25', 5),
 ('Toby', 'https://cdn1.tedsby.com/tb/hugesquare/storage/5/4/5/545380/stuffed-dog-welsh-corgi-funny-by-natalia-roschina.jpg', 6);
 
+-- Configuración de Widgets
 
+CREATE TABLE Configuration (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Font NVARCHAR(100) NOT NULL,
+	Color NVARCHAR(100) NOT NULL,
+    FontSize INT NOT NULL,
+);
+
+INSERT INTO Configuration (Font, Color, FontSize) VALUES 
+('Verdana', '#060c60', 16);
 
